@@ -1,1 +1,2 @@
 # GitCourse
+# Dedicate for real 
